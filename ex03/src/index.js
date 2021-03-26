@@ -1,7 +1,7 @@
 // src/index.js
 
 import React from "react";
-import ReactDOM, { render } from "react-dom";
+import ReactDOM from "react-dom";
 import "./index.css";
 
 // add the following code below this line
